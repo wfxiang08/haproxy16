@@ -54,6 +54,7 @@ tests/test_hashes
 !/CHANGELOG
 !/LICENSE
 !/Makefile
+!/CMakeLists.txt
 !/README
 !/CONTRIBUTING
 !/MAINTAINERS
